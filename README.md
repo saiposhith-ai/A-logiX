@@ -39,20 +39,7 @@
 
 ---
 
-## 📂 Folder Structure
 
-```bash
-lib/
-├── main.dart
-├── screens/
-│   ├── camera_screen.dart
-│   ├── result_screen.dart
-│   ├── tracker_screen.dart
-│   ├── profile_screen.dart
-└── widgets/
-    ├── food_card.dart
-    ├── nutrient_chart.dart
-```
 
 ---
 
