@@ -64,7 +64,7 @@
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/a-logix.git
+git clone https://github.com/saiposhith-ai/a-logix.git
 cd a-logix
 ```
 
